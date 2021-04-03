@@ -11,4 +11,18 @@ Relay Shutoff
 
 ## Current Status
 - Serial Monitor 
+- Write/Error LEDs
 - RTC reporting
+
+## Roadmap
+- TFT Config / show Serial Monitor 
+- SD Card File creation (increment)
+- SD Card Write
+- Temperature Read
+- Temp Write to SD
+- Read Voltage
+- Voltage Write to SD
+- Read Current
+- Current Write to SD
+- Temp Check against overTemp
+- If OverTemp - Relay Shutdown
